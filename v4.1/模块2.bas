@@ -64,7 +64,7 @@ Sub 插入表头()
 End Sub
 
 Sub 输出()
-    Range(Cells(1, 2), Cells((HEAD + TIMES) * DATA, COLUMN + 2)).Copy
+    Range(Cells(1, 2), Cells((HEAD + 2) * DATA, COLUMN + 2)).Copy
     Sheets("成绩条").Select
     Range("B1").PasteSpecial Paste:=xlPasteColumnWidths, Operation:=xlNone, _
         SkipBlanks:=False, Transpose:=False

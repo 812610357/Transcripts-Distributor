@@ -10,19 +10,19 @@
 
 ### 控制面板
 
-![控制面板](https://github.com/812610357/Transcripts-Distributor/raw/master/image/1.png)
+![控制面板](https://public.bl.files.1drv.com/y4mYUr3oPUBc-sEG_nm49eioKIXQR_CVXRNOYsLwNnq7DCx40tyd_CYeDsaaZybc5zhu-HCFP5W9pZAMAUHEwNXeOVL3ECwoSmh1L1rTpmQCTiJpYtaDpb0BPA-J89-5R7CgWwaMqlvR4QmyEUHf2OmDqPezoY9DPCgSPBbkL7h_sBbgxCuDEjwMgCbngZW3g3TUIe-wY_21MeBd-g79GgiQSFOc78UBy_HfJkeWrZX6ry580JYx1tjFu-wef6oH8Kp)
 
 ### 原始数据表格
 
-![原始数据](https://github.com/812610357/Transcripts-Distributor/raw/master/image/2.png)
+![原始数据](https://public.bl.files.1drv.com/y4mP3-kwAwcjPwHW7CPzV__GgRGvzqfLgf0z-5Dj5Gi9UVA57Wm2UDEMECKcapLel9pB3fRAq0JGs-w5Wttw44U0BE3MWOAvXfr10ofsd0CP57Vw6r8prQmXEeAvzB-H2oPchWd7fu4zT23q3WvaJ96NOxajHR9YBDEkTdnHr_dk6WJvX91MT1vh-kd4cjz5p8EjbMpVsJtJp39DliGE67ww2wfqt07J1loDJHSW-OgvW6iioz80n3YHfgOcf2W_RZ7)
 
 ### 导出成绩条
 
-![导出](https://github.com/812610357/Transcripts-Distributor/raw/master/image/3.png)
+![导出](https://public.bl.files.1drv.com/y4m1OoVYSpuZcQcZU_PoLgP3XG1iIeRqVT-gDnFs4AUZ_DF37pZUJydJC_hMPwFbvj__HZRXwAIb0iSyHXZSsacrgpZ5OpnDSN7EiVYLvX7-ZVzNABOxM3XM-BOuGb06zOUeXPtf_zxH3JTd3AkPImvMA2nPZItCmfOrVnY32SvnUxCEaimYWoebh98XQ0hlIlb1Zi03mr2PuxFdDFK21WhjljrnkFRN-_uUEAMEA3oltbXnc76JxfyHPeFZPglvrIS)
 
 ### 多次成绩叠加
 
-![叠加](https://github.com/812610357/Transcripts-Distributor/raw/master/image/4.png)
+![叠加](https://public.bl.files.1drv.com/y4mUqjigNbrjI-wmVqlGVRlQo5q2yDcTM3WJDu0QQNShVzMD0droenWUqH-lyxMS_EvvVHtza6BFC2Vixf_X9a3Uo_slys4lt-xVCGBk3qOQ-tj6wKoAbfOib9TBR8aR9oaUordgilGyJI61GBmkGxjJYPngevuk8oE-4FclVVVTFZ5iAYQLTa_8_xxAfgdxVqYXK6fa0sU7Nqi6ignFIwb_lS28qfeQm4xflJuSAQBRwRqqyzzZITHpRJ0ickH9eYY)
 
 ## 首次使用方法
 
@@ -38,7 +38,7 @@
 
 ## 温馨提示
 
-1. 请使用Microsoft Office 2016及以上版本的电子表格程序打开此表格。
+1. 请使用Microsoft Office 2013及以上版本的电子表格程序打开此表格。
 2. 推荐使用订阅版的Microsoft office 365运行此表格。
 3. 任意版本的金山WPS软件或者其他公司出品的办公软件无法运行此程序，请您谅解。
 4. 在使用前请打开宏，你可以每次打开此表格后在工具栏下的“安全警告”中点击“启用内容”来打开宏，或者一次性在“文件”=>“选项”=>“信任中心”=>"信任中心设置"=>“宏设置”中把宏设置为启用。

@@ -2,17 +2,22 @@
 
 成绩条导出与叠加程序，可以自动把表头匹配到每一条学生成绩的前方，以便于分发给学生。
 
+下载地址：<https://github.com/812610357/Transcripts-Distributor/releases/download/v4.0/V4.0.xlsm>
+
 ## 截图
 
 ### 控制面板
 
 ![控制面板](https://github.com/812610357/Transcripts-Distributor/raw/master/image/1.png)
+
 ### 原始数据表格
 
 ![原始数据](https://github.com/812610357/Transcripts-Distributor/raw/master/image/2.png)
+
 ### 导出成绩条
 
 ![导出](https://github.com/812610357/Transcripts-Distributor/raw/master/image/3.png)
+
 ### 多次成绩叠加
 
 ![导出](https://github.com/812610357/Transcripts-Distributor/raw/master/image/4.png)
@@ -24,7 +29,7 @@
 3. 如果制作单次成绩条，建议先点击蓝色按钮（系统可能会出现卡顿），以防止系统出现异常，再点击橙色按钮。
 4. 制作完成后系统会自动保存，您也可以把“成绩条”工作表进行备份，方便下次进行叠加。
 
-## 多次叠加方法
+## 多次叠加方法（表头必须一致）
 
 1. 如果上一次制作的成绩条还保存在该工作表中，可在导入新数据之后，直接点击橙色按钮即可。
 2. 如果您把上一次制作的成绩条额外多出的话，请原封不动把整个工作表原封不动的放入该工作簿，并把该工作表命名为”成绩条“，导入新数据之后，点击橙色按钮即可。

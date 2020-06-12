@@ -10,6 +10,8 @@
 
 ### 控制面板
 
+![1](http://zongge.tpddns.cn:10000/?/Image/1.png)
+
 ![控制面板](https://public.bl.files.1drv.com/y4mYUr3oPUBc-sEG_nm49eioKIXQR_CVXRNOYsLwNnq7DCx40tyd_CYeDsaaZybc5zhu-HCFP5W9pZAMAUHEwNXeOVL3ECwoSmh1L1rTpmQCTiJpYtaDpb0BPA-J89-5R7CgWwaMqlvR4QmyEUHf2OmDqPezoY9DPCgSPBbkL7h_sBbgxCuDEjwMgCbngZW3g3TUIe-wY_21MeBd-g79GgiQSFOc78UBy_HfJkeWrZX6ry580JYx1tjFu-wef6oH8Kp)
 
 ### 原始数据表格

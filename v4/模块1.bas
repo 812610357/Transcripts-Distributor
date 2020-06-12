@@ -16,8 +16,3 @@ Sub 检测表格()
     Sheets("控制面板").Select
     Sheets("成绩条").Cells.Delete Shift:=xlUp
 End Sub
-
-Sub Msg()
-    waiting.Show
-End Sub
-

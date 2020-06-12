@@ -6,6 +6,8 @@
 
 ## 截图
 
+国内无法查看，稍后补充
+
 ### 控制面板
 
 ![控制面板](https://github.com/812610357/Transcripts-Distributor/raw/master/image/1.png)
@@ -20,7 +22,7 @@
 
 ### 多次成绩叠加
 
-![导出](https://github.com/812610357/Transcripts-Distributor/raw/master/image/4.png)
+![叠加](https://github.com/812610357/Transcripts-Distributor/raw/master/image/4.png)
 
 ## 首次使用方法
 
@@ -36,7 +38,7 @@
 
 ## 温馨提示
 
-1. 请使用Microsoft Office 2007及以上版本的电子表格程序打开此表格。
+1. 请使用Microsoft Office 2016及以上版本的电子表格程序打开此表格。
 2. 推荐使用订阅版的Microsoft office 365运行此表格。
 3. 任意版本的金山WPS软件或者其他公司出品的办公软件无法运行此程序，请您谅解。
 4. 在使用前请打开宏，你可以每次打开此表格后在工具栏下的“安全警告”中点击“启用内容”来打开宏，或者一次性在“文件”=>“选项”=>“信任中心”=>"信任中心设置"=>“宏设置”中把宏设置为启用。

@@ -1,6 +1,21 @@
 # 成绩条导出与叠加工作表
 
- 成绩条导出与叠加程序，可以自动把表头匹配到每一条学生成绩的前方，以便于分发给学生。
+成绩条导出与叠加程序，可以自动把表头匹配到每一条学生成绩的前方，以便于分发给学生。
+
+## 截图
+
+### 控制面板
+
+![控制面板](https://github.com/812610357/Transcripts-Distributor/raw/master/image/1.png)
+### 原始数据表格
+
+![原始数据](https://github.com/812610357/Transcripts-Distributor/raw/master/image/2.png)
+### 导出成绩条
+
+![导出](https://github.com/812610357/Transcripts-Distributor/raw/master/image/3.png)
+### 多次成绩叠加
+
+![导出](https://github.com/812610357/Transcripts-Distributor/raw/master/image/4.png)
 
 ## 首次使用方法
 

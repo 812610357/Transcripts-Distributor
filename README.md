@@ -2,15 +2,13 @@
 
 成绩条导出与叠加程序，可以自动把表头匹配到每一条学生成绩的前方，以便于分发给学生。
 
-下载地址：<https://github.com/812610357/Transcripts-Distributor/releases/download/v4.0/V4.0.xlsm>
+下载地址：<https://github.com/812610357/Transcripts-Distributor/releases/download/v4.1/V4.1.xlsm>
 
 ## 截图
 
-国内无法查看，稍后补充
+图片目前走的是OneDrive，加载略微缓慢。
 
 ### 控制面板
-
-![1](http://zongge.tpddns.cn:10000/?/Image/1.png)
 
 ![控制面板](https://public.bl.files.1drv.com/y4mYUr3oPUBc-sEG_nm49eioKIXQR_CVXRNOYsLwNnq7DCx40tyd_CYeDsaaZybc5zhu-HCFP5W9pZAMAUHEwNXeOVL3ECwoSmh1L1rTpmQCTiJpYtaDpb0BPA-J89-5R7CgWwaMqlvR4QmyEUHf2OmDqPezoY9DPCgSPBbkL7h_sBbgxCuDEjwMgCbngZW3g3TUIe-wY_21MeBd-g79GgiQSFOc78UBy_HfJkeWrZX6ry580JYx1tjFu-wef6oH8Kp)
 

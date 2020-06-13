@@ -2,7 +2,7 @@
 
 成绩条导出与叠加程序，可以自动把表头匹配到每一条学生成绩的前方，以便于分发给学生。
 
-下载地址：<https://github.com/812610357/Transcripts-Distributor/releases/download/v4.1/V4.1.xlsm>
+下载地址：<https://github.com/812610357/Transcripts-Distributor/releases/download/v4.3/V4.3.xlsm>
 
 ## 截图
 
@@ -10,26 +10,27 @@
 
 ### 控制面板
 
-![控制面板](https://public.bl.files.1drv.com/y4mYUr3oPUBc-sEG_nm49eioKIXQR_CVXRNOYsLwNnq7DCx40tyd_CYeDsaaZybc5zhu-HCFP5W9pZAMAUHEwNXeOVL3ECwoSmh1L1rTpmQCTiJpYtaDpb0BPA-J89-5R7CgWwaMqlvR4QmyEUHf2OmDqPezoY9DPCgSPBbkL7h_sBbgxCuDEjwMgCbngZW3g3TUIe-wY_21MeBd-g79GgiQSFOc78UBy_HfJkeWrZX6ry580JYx1tjFu-wef6oH8Kp)
+![控制面板](https://public.bl.files.1drv.com/y4ml6XTwEmwgaFpOEeumiYWiK_y4vvUIDYerteb2QGOPMayy7UB9zNnS6ITZQbAsDglyc8DsAfF2g6pwHLyctNI8PajP670QozKw7V3tAKY0LfZkjzLPJgFZQcu28MwZMnA5aH19vhuEr-Z_aUMhS1_ZGi5fSNMD5wM9BzSdUl4I96x01pZVWYu3dMvrma_P_WnH09iuuK6RpfghpplOBa34ZYxAfuZ1N53qcARP-gPLw6si5pZ6IywHpnSdL1ZtJ36)
 
 ### 原始数据表格
 
-![原始数据](https://public.bl.files.1drv.com/y4mP3-kwAwcjPwHW7CPzV__GgRGvzqfLgf0z-5Dj5Gi9UVA57Wm2UDEMECKcapLel9pB3fRAq0JGs-w5Wttw44U0BE3MWOAvXfr10ofsd0CP57Vw6r8prQmXEeAvzB-H2oPchWd7fu4zT23q3WvaJ96NOxajHR9YBDEkTdnHr_dk6WJvX91MT1vh-kd4cjz5p8EjbMpVsJtJp39DliGE67ww2wfqt07J1loDJHSW-OgvW6iioz80n3YHfgOcf2W_RZ7)
+![原始数据](https://public.bl.files.1drv.com/y4mXuHK1rUjDtIJXyT3PW1Y6VfaWrn4f3K_x1tb5JGENO4b1e2jNHyjs5gGc9KcWwLO1k2b7qX9RE3INOUltN7PNuAGXI8IwrwBY1pjDx-HpSUevfzUQ0doOOhHDHEAiLtLHQ15qPE7PrzQeta-h_5GiibsMgs_fNX_ZO3-WvbfK51ytqIsHonly--OsjHieqiQzp5F3_U3pxqG5D6CdHDqIGXgHHDyAmfQjPcM3cpm14Qv16--Ro_fQOofShtYioTf)
 
 ### 导出成绩条
 
-![导出](https://public.bl.files.1drv.com/y4m1OoVYSpuZcQcZU_PoLgP3XG1iIeRqVT-gDnFs4AUZ_DF37pZUJydJC_hMPwFbvj__HZRXwAIb0iSyHXZSsacrgpZ5OpnDSN7EiVYLvX7-ZVzNABOxM3XM-BOuGb06zOUeXPtf_zxH3JTd3AkPImvMA2nPZItCmfOrVnY32SvnUxCEaimYWoebh98XQ0hlIlb1Zi03mr2PuxFdDFK21WhjljrnkFRN-_uUEAMEA3oltbXnc76JxfyHPeFZPglvrIS)
+![导出](https://public.bl.files.1drv.com/y4myQgh_Xoi3JNLqj4Xp6eBnMMqblmu3MWyMi-n_LXtgewlW4169eVVKz8eme7hbxrSAAnZxvq7oM0Q5lc3E2M7W3pbKWU9narwgDm9CffWgQXRITl7t1n2dHJaVLAPg4ziRXx4hg4-YQL_budj0CJd-L0FGEk4rcuRBYnCl6rgcfXuCYARSXrYJY4V7zXOWPNW1oyNWoYn05kX7ve-uHZRwBNQfTbLEo82BBBX2aDfOgPU7litv5ny6Eia7hs2jmXN)
 
 ### 多次成绩叠加
 
-![叠加](https://public.bl.files.1drv.com/y4mUqjigNbrjI-wmVqlGVRlQo5q2yDcTM3WJDu0QQNShVzMD0droenWUqH-lyxMS_EvvVHtza6BFC2Vixf_X9a3Uo_slys4lt-xVCGBk3qOQ-tj6wKoAbfOib9TBR8aR9oaUordgilGyJI61GBmkGxjJYPngevuk8oE-4FclVVVTFZ5iAYQLTa_8_xxAfgdxVqYXK6fa0sU7Nqi6ignFIwb_lS28qfeQm4xflJuSAQBRwRqqyzzZITHpRJ0ickH9eYY)
+![叠加](https://public.bl.files.1drv.com/y4mxbxX65QsbecrY2CyvKdz4wjPU6xJzAQBY8X9UqYFiXUg-j2OU0QUM3tY9kLhzSnppL-dxGGbnlJwVYY-KAPgvJnFRboCJUeyQpTAG8s0d8-pLQCYuXc4Qmt_aSpkbq3gYbaG_d39D5MNQHN_W61ECfM3DDuNIR0rn4mT6JaFFtZEJaji2YbovYzS-6C0kBU14Ozf97dzaS_ImF0OmRKT3RDj3W1aM6gqhs3t0sB-OOWq58OCUCqEkqXEf3WB2r7H)
 
 ## 首次使用方法
 
 1. 首次使用将学生成绩单导入到“导入数据”工作表中。
-2. 在“控制面板”工作表中的“表头行数”选项中填入刚刚导入表格的表头行数。系统会开始自动检测您导入的表格（系统可能会出现卡顿），请仔细核对“总行数”、“总列数”、“数据行数”（用总行数减去表头行数）是否正确，如果不正确，请手动手动输入。
-3. 如果制作单次成绩条，建议先点击蓝色按钮（系统可能会出现卡顿），以防止系统出现异常，再点击橙色按钮。
-4. 制作完成后系统会自动保存，您也可以把“成绩条”工作表进行备份，方便下次进行叠加。
+2. 在“控制面板”工作表中的“表头行数”选项中填入刚刚导入表格的表头行数。
+3. 点击绿色按钮，系统会开始检测您导入的数据。请仔细核对“导入行数”、“导入列数”、“数据条数”是否正确，如果不正确，请手动手动输入。
+4. 如果制作单次成绩条，建议先点击蓝色按钮（系统可能会出现卡顿），以防止系统出现异常，再点击橙色按钮。
+5. 制作完成后系统会自动保存，您也可以把“成绩条”工作表进行备份，方便下次进行叠加。
 
 ## 多次叠加方法（表头必须一致）
 
@@ -50,5 +51,5 @@
 
 ## 额外说明
 
-1. 导出的成绩条中，含有表头位置（位于A列），写入次数（位于B列）等标记，如果需要进行多次叠加，请不要删除这些标记，否则将导致程序异常。
+1. 导出的成绩条中，含有表头位置、表头长宽、写入次数等标记（A列、B列、1行），如果需要进行多次叠加，请不要删除这些标记，否则将导致程序异常。
 2. 一个工作表最多包含1048576行，最终导出的成绩条工作表行数=(表头行数+写入次数+1)×数据行数，请自行计算所需行数，以免发生溢出。

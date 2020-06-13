@@ -10,19 +10,19 @@
 
 ### 控制面板
 
-![控制面板](https://public.bl.files.1drv.com/y4ml6XTwEmwgaFpOEeumiYWiK_y4vvUIDYerteb2QGOPMayy7UB9zNnS6ITZQbAsDglyc8DsAfF2g6pwHLyctNI8PajP670QozKw7V3tAKY0LfZkjzLPJgFZQcu28MwZMnA5aH19vhuEr-Z_aUMhS1_ZGi5fSNMD5wM9BzSdUl4I96x01pZVWYu3dMvrma_P_WnH09iuuK6RpfghpplOBa34ZYxAfuZ1N53qcARP-gPLw6si5pZ6IywHpnSdL1ZtJ36)
+![控制面板](http://r.photo.store.qq.com/psc?/V13F63XS3Idc7j/BMx5ghM48a7CDUBX*cPfvOgTVkiO.pPBZDlrV.fUNK.a4ddx17XDZSkcZZrUr0H9TK32pNEln8OQnPcTz65mvv56Yw2lgUOr8dFL*D8Sky4!/r)
 
 ### 原始数据表格
 
-![原始数据](https://public.bl.files.1drv.com/y4mXuHK1rUjDtIJXyT3PW1Y6VfaWrn4f3K_x1tb5JGENO4b1e2jNHyjs5gGc9KcWwLO1k2b7qX9RE3INOUltN7PNuAGXI8IwrwBY1pjDx-HpSUevfzUQ0doOOhHDHEAiLtLHQ15qPE7PrzQeta-h_5GiibsMgs_fNX_ZO3-WvbfK51ytqIsHonly--OsjHieqiQzp5F3_U3pxqG5D6CdHDqIGXgHHDyAmfQjPcM3cpm14Qv16--Ro_fQOofShtYioTf)
+![原始数据](http://r.photo.store.qq.com/psc?/V13F63XS3Idc7j/BMx5ghM48a7CDUBX*cPfvAw1ic0Tuqe40oyczPVVzrNKG8VUWyOJEaiTB6sV4piHYZt8VVS1EGQA.VsOy**YJ1xuWDzQK0UUizvM7B*StQQ!/r)
 
 ### 导出成绩条
 
-![导出](https://public.bl.files.1drv.com/y4myQgh_Xoi3JNLqj4Xp6eBnMMqblmu3MWyMi-n_LXtgewlW4169eVVKz8eme7hbxrSAAnZxvq7oM0Q5lc3E2M7W3pbKWU9narwgDm9CffWgQXRITl7t1n2dHJaVLAPg4ziRXx4hg4-YQL_budj0CJd-L0FGEk4rcuRBYnCl6rgcfXuCYARSXrYJY4V7zXOWPNW1oyNWoYn05kX7ve-uHZRwBNQfTbLEo82BBBX2aDfOgPU7litv5ny6Eia7hs2jmXN)
+![导出](http://r.photo.store.qq.com/psc?/V13F63XS3Idc7j/BMx5ghM48a7CDUBX*cPfvEvfK*Y7RTKrPKubpDTA8PZJ2WLXuPsLknXI6SOvlzWde*cIzDZgHg6HTasadMT*h1AU3dhVH3HxYdwyBlrnowU!/r)
 
 ### 多次成绩叠加
 
-![叠加](https://public.bl.files.1drv.com/y4mxbxX65QsbecrY2CyvKdz4wjPU6xJzAQBY8X9UqYFiXUg-j2OU0QUM3tY9kLhzSnppL-dxGGbnlJwVYY-KAPgvJnFRboCJUeyQpTAG8s0d8-pLQCYuXc4Qmt_aSpkbq3gYbaG_d39D5MNQHN_W61ECfM3DDuNIR0rn4mT6JaFFtZEJaji2YbovYzS-6C0kBU14Ozf97dzaS_ImF0OmRKT3RDj3W1aM6gqhs3t0sB-OOWq58OCUCqEkqXEf3WB2r7H)
+![叠加](http://r.photo.store.qq.com/psc?/V13F63XS3Idc7j/BMx5ghM48a7CDUBX*cPfvNPrasKou*J.4NmiF7fsfPGqtFiY69Eba9a4aEfAXbSGmJeilDYyGfGj6pHg0LNPIwHEpc8P3rntW6L1lRKUZv0!/r)
 
 ## 首次使用方法
 

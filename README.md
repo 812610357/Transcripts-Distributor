@@ -6,8 +6,6 @@
 
 ## 截图
 
-图片目前走的是OneDrive，加载略微缓慢。
-
 ### 控制面板
 
 ![控制面板](http://r.photo.store.qq.com/psc?/V13F63XS3Idc7j/BMx5ghM48a7CDUBX*cPfvOgTVkiO.pPBZDlrV.fUNK.a4ddx17XDZSkcZZrUr0H9TK32pNEln8OQnPcTz65mvv56Yw2lgUOr8dFL*D8Sky4!/r)

@@ -6,23 +6,21 @@
 
 ## 截图
 
-图片目前走的是OneDrive，加载略微缓慢。
-
 ### 控制面板
 
-![控制面板](http://r.photo.store.qq.com/psc?/V13F63XS3Idc7j/BMx5ghM48a7CDUBX*cPfvOgTVkiO.pPBZDlrV.fUNK.a4ddx17XDZSkcZZrUr0H9TK32pNEln8OQnPcTz65mvv56Yw2lgUOr8dFL*D8Sky4!/r)
+![控制面板](https://github.com/812610357/Transcripts-Distributor/blob/master/image/1.png)
 
 ### 原始数据表格
 
-![原始数据](http://r.photo.store.qq.com/psc?/V13F63XS3Idc7j/BMx5ghM48a7CDUBX*cPfvAw1ic0Tuqe40oyczPVVzrNKG8VUWyOJEaiTB6sV4piHYZt8VVS1EGQA.VsOy**YJ1xuWDzQK0UUizvM7B*StQQ!/r)
+![原始数据](https://github.com/812610357/Transcripts-Distributor/blob/master/image/2.png)
 
 ### 导出成绩条
 
-![导出](http://r.photo.store.qq.com/psc?/V13F63XS3Idc7j/BMx5ghM48a7CDUBX*cPfvEvfK*Y7RTKrPKubpDTA8PZJ2WLXuPsLknXI6SOvlzWde*cIzDZgHg6HTasadMT*h1AU3dhVH3HxYdwyBlrnowU!/r)
+![导出](https://github.com/812610357/Transcripts-Distributor/blob/master/image/3.png)
 
 ### 多次成绩叠加
 
-![叠加](http://r.photo.store.qq.com/psc?/V13F63XS3Idc7j/BMx5ghM48a7CDUBX*cPfvNPrasKou*J.4NmiF7fsfPGqtFiY69Eba9a4aEfAXbSGmJeilDYyGfGj6pHg0LNPIwHEpc8P3rntW6L1lRKUZv0!/r)
+![叠加](https://github.com/812610357/Transcripts-Distributor/blob/master/image/4.png)
 
 ## 首次使用方法
 
